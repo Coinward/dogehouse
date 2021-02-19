@@ -1,6 +1,4 @@
-![DogeHouse logo](/dogehouse-github.png "DogeHouse")
-
-https://dogehouse.tv/
+Ashram
 
 ## Structure
 
